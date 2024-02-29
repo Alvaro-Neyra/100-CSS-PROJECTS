@@ -1,0 +1,2 @@
+# 100-CSS-PROJECTS
+This repo is for the 100 CSS PROJECTS CHALLENGE
